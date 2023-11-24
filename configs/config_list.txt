@@ -1,0 +1,36 @@
+librewolf
+/home/main/.librewolf/887aox0f.default-default/chrome/
+userChrome.css
+
+openbox
+/home/main/.config/openbox/
+rc.xml
+
+htop
+/home/main/.config/htop/
+htoprc
+
+qterminal
+/home/main/.config/qterminal.org/
+qterminal.ini
+
+keyd
+/etc/keyd/
+custom-layout
+
+keyd
+/etc/keyd/
+default.conf
+
+# dir name
+# path
+# file name
+
+### Backup
+
+For each file
+
+copy forcefully $dir$file to backup/$file
+
+copy forcefully $path$file to $dir$file
+  exception if no file to copy
